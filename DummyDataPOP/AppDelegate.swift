@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  DummyDataPOP
 //
-//  Created by Tayyip on 3.12.2022.
+//  Created by Ekrem on 3.12.2022.
 //
 
 import UIKit
