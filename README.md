@@ -1,3 +1,11 @@
 # Dummy-data-Viewer
-practice for api and testing  app 
-mvvm architecture and  tableviews
+
+Hello ,
+Simple  app  for practice  my skills .
+
+Made with,
+
+* Json Placeholder free fake REST API
+* MVVM Architecture
+* Table View 
+* Unit Tests
